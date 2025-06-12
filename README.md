@@ -57,7 +57,7 @@ As part of foundational SOC training, this project involved designing, configuri
 
 ---
 
-### **Why This Matters for SOC Roles**  
+### **Why This Matters**  
 - **Incident Detection**: Understanding normal network behavior (e.g., successful pings) is critical to identifying anomalies (e.g., failed pings due to ARP spoofing).  
 - **Forensic Analysis**: Static IP logs aid in tracking devices during investigations.  
 - **SIEM Integration**: Raw network data (e.g., ping logs) can feed into SIEM tools like Splunk for correlation.  
